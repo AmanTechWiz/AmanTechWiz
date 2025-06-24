@@ -44,13 +44,4 @@
 - Leveling up DSA, system design, and web dev skills
 ---
 
-## 📬 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/amandeep-yourlink)  
-- 💻 [Portfolio](https://your-portfolio-link.com)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- ✉️ Email: yourname@gmail.com
-
----
-
 ⭐ _“Code what matters. Build for impact.”_  
