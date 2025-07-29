@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Amandeep!
 
-🎓 Final Year B.Tech CSE Student | 🔍 Keploy API Fellow  
-🚀 Passionate about **Web Development**, **Machine Learning**, and building impactful tech solutions.  
+🎓 Final Year B.Tech CSE Student
+🚀 Passionate about **Web Development** and building impactful tech solutions.  
+🔍 Exploring dev ops
 
 ---
 
 ## 💻 Tech Stack
 
-- **Languages:** JavaScript (ES6+), TypeScript (learning), Python, C++
+- **Languages:** JavaScript (ES6+), TypeScript (learning), C++
 - **Web Dev:** React.js, Node.js, Express, MongoDB
 - **Tools & DevOps:** Git, GitHub, Postman, Docker
-- **Machine Learning:** Pandas, NumPy, Scikit-learn
 ---
 
 ## 🔥 Notable Projects
@@ -32,14 +32,13 @@
 ## 🎯 Interests
 
 - 🚀 Startup and hackathon culture  
-- 🎨 Interactive EdTech tools (e.g., Manim + LLM combo)  
 - 🤝 Contributing to meaningful open source projects
 
 ---
 
 ## 📈 Current Goals
 
-- Cracking top tech roles in Web Dev / ML  
+- Cracking top tech roles in Web Dev 
 - Contributing to open source in JavaScript/ML ecosystems  
 - Leveling up DSA, system design, and web dev skills
 ---
