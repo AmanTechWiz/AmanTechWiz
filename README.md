@@ -21,12 +21,9 @@ Final year student pursuing cs.
 
 - 📚 **[Coursely](https://github.com/AmanTechWiz/Coursely)** - Course management platform backend with authentication endpoints and modular architecture for tracking modules and study progress.
 
-- 🕰️ **[HelloJS](https://github.com/AmanTechWiz/HelloJS)** - Your JS hello world done properly. Mainly using to test hosting.
+- 🕰️ **[HelloJS](https://github.com/AmanTechWiz/HelloJS)** - Your JS hello world done properly. Mainly using to test hosting
 
-## GitHub Activity
+---
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/AmanTechWiz)
-
-
-> "Don't chase the win; outpace the previous version. Success is just a side effect!"
+"Don't chase the win; outpace the previous version. Success is just a side effect!"
 
