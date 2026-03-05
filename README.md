@@ -2,4 +2,4 @@
 
 Final year student pursuing cs.
 
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
+> Building and pushing the limits of Next.js 15 + Postgres. I speak Java, JS, TS and C++, but lately, I'm just enjoying the speed of the modern web and vibe coding. Next up: conquering Go.
