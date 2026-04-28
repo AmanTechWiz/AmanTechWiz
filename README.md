@@ -27,5 +27,5 @@ Final year student pursuing cs.
 
 ---
 
-"Don't chase the win; outpace the previous version. Success is just a side effect!"
+"Don't chase the win ... outpace the previous version. Success is just a side effect!"
 
