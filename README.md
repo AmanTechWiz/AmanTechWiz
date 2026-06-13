@@ -15,8 +15,6 @@ Final year student pursuing cs.
 
 - 🌊 **[Flow](https://github.com/AmanTechWiz/Flow)** - AI-powered web app generator that transforms natural language descriptions into fully functional applications with live previews.
 
-- 📦 **[StoreIt](https://github.com/AmanTechWiz/StoreIt)** - Modern, secure file storage platform with drag-and-drop uploads, analytics dashboards, and real-time file management.
-
 - 🏫 **[KIIT Hub](https://github.com/AmanTechWiz/KIIT-hub)** - Agentic AI system automating KIIT campus tasks—compliance certificates, placement tracking, mentorship scheduling, and academic information.
 
 - 🏦 **[Bankk](https://github.com/AmanTechWiz/Bankk)** - Desktop banking application made with Swing GUI - has secure authentication, account management, fund transfers, and balance tracking.
